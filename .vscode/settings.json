@@ -1,0 +1,6 @@
+{
+    "cmake.options.statusBarVisibility": "hidden",
+    "accessibility.hideAccessibleView": false,
+    "scm.providerCountBadge": "hidden",
+    "chat.editMode.hidden": true
+}
